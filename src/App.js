@@ -148,7 +148,42 @@ function App() {
               <i className="bi bi-music-note-list mx-3"></i>
               Life of Rhythms
             </h1>
-            <h3 className="py-5">Discover music in 30 seconds</h3>
+            <h3 className="py-5 text-center">
+  🎶 <strong>Welcome to Life of Rhythms</strong> 🎶  
+  <br />
+  <em>"Where words fail, music speaks." – Hans Christian Andersen</em>
+  <br /><br />
+
+  <strong>Feel the beat, live the rhythm!</strong>  
+  <br />
+  🚀 Discover trending tracks & hidden gems  
+  <br />
+  🎧 Immerse yourself in music that moves you  
+  <br />
+  🎼 Let your soul dance to the melody of life  
+  <br /><br />
+
+  🔥 <strong>Explore the Magic of Music</strong> 🔥  
+  <br />
+  🎵 <strong>Discover Unlimited Music</strong> – Search & play 30-second previews of your favorite songs  
+  <br />
+  🎤 <strong>Artist Spotlight</strong> – Featuring a new trending artist every day!  
+  <br />
+  📌 <strong>Personalized Playlists</strong> – Create, Like, and Pin your favorite tracks  
+  <br />
+  🚀 <strong>Trending Now</strong> – Stay ahead with the top 5 global hits updated in real-time  
+  <br /><br />
+
+  💬 <strong>Quote of the Day</strong>  
+  <br />
+  <em>"Without music, life would be a mistake." – Friedrich Nietzsche</em>  
+  <br /><br />
+
+  🎧 <strong>Ready to dive into the rhythm?</strong>  
+  <br />
+  🔗 <strong>Start Listening Now</strong>  
+</h3>
+
           
           </div>
         </div>
