@@ -16,12 +16,15 @@
 
 🏠 Home Page
 <img src="https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms/blob/main/Screenshots/HomePage.png" alt="Life of Rhythms Home Page" width="800"/>
+
 🔍 Search Results
-<img src="screenshots/search.png" alt="Music Search" width="800"/>
+<img src="https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms/blob/main/Screenshots/Search-Music.png" alt="Music Search" width="800"/>
+<img src="https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms/blob/main/Screenshots/Searchmusic.png" alt="Music Search" width="800"/>
+
 🎶 Liked Music
-<img src="screenshots/liked-music.png" alt="Liked Music" width="800"/>
+<img src="https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms/blob/main/Screenshots/Liked-Music.png" alt="Liked Music" width="800"/>
 🎶 Pinned Music
-<img src="screenshots/pinned-music.png" alt="Pinned Music" width="800"/>
+<img src="https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms/blob/main/Screenshots/Pinned-music.png" alt="Pinned Music" width="800"/>
 
 ---
 
