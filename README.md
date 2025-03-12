@@ -11,6 +11,19 @@
 ✅ **Responsive Design** – Works seamlessly across desktop and mobile devices.  
 
 ---
+##📸 **Screenshots**
+🎨 Beautiful, modern, and responsive UI
+
+🏠 Home Page
+<img src="screenshots/homepage.png" alt="Life of Rhythms Home Page" width="800"/>
+🔍 Search Results
+<img src="screenshots/search.png" alt="Music Search" width="800"/>
+🎶 Liked Music
+<img src="screenshots/liked-music.png" alt="Music Player" width="800"/>
+🎶 Pinned Music
+<img src="screenshots/pinned-music.png" alt="Music Player" width="800"/>
+
+---
 
 ## 🛠️ Installation & Setup  
 To run **Life of Rhythms** locally, follow these steps:  
