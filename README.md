@@ -15,7 +15,7 @@
 🎨 Beautiful, modern, and responsive UI
 
 🏠 Home Page
-<img src="screenshots/homepage.png" alt="Life of Rhythms Home Page" width="800"/>
+<img src="https://github.com/JahnavikaGopalbvrith/Life-of-Rhythms/blob/main/Screenshots/HomePage.png" alt="Life of Rhythms Home Page" width="800"/>
 🔍 Search Results
 <img src="screenshots/search.png" alt="Music Search" width="800"/>
 🎶 Liked Music
